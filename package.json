@@ -1,13 +1,13 @@
 {
-  "name": "cowin-poll",
-  "version": "1.0.0",
+  "name": "cowin-slot-notifier",
+  "author": "Karthik VU <karthik.vu@live.com",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./index.js"
   },
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
